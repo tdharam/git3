@@ -1,7 +1,7 @@
 package StringPool;
 
 import Practice1.Employee;
-// java 7
+// java 7 {this class shows memory specification of variables. which variable goes where in memory. }
 public class MemorySpec {
 
 	//Run time constant Pool
@@ -39,4 +39,4 @@ public class MemorySpec {
 /*/Each frame has its own 
 array of local variables ,
 operand stack  and 
-a reference to the runtime constant pool (ง2.5.5) of the class of the current method.*/
+a reference to the runtime constant pool (ยง2.5.5) of the class of the current method.*/
